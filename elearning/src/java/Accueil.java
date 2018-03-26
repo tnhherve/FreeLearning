@@ -19,7 +19,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet(urlPatterns = {"/Accueil"})
 public class Accueil extends HttpServlet {
 
-  
+  //Add comment
     @Override
     protected void doGet(HttpServletRequest request, HttpServletResponse response)
             throws ServletException, IOException {
