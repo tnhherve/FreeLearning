@@ -3,7 +3,7 @@
     Created on : 26 mars 2018, 13:52:46
     Author     : herve
 --%>
-
+<%--Je fait un comment dans le fichier accueiljs--%>
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html>
